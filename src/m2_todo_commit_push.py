@@ -1,5 +1,6 @@
 print('Hello, World')
-
+print('I love you')
+print ((3607*34227))
 ###############################################################################
 #
 #   This line is a COMMENT -- a note to the person reading this file.
@@ -17,7 +18,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# Done: 1.
 #   The TO-DO comment above this one indicates that there is something for
 #   you to do.
 #
@@ -33,7 +34,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# Done: 2.
 #
 #   Notice that TODO's turn blue even inside of comments. This helps you
 #   find them easier when you are looking for what you still need to do.
@@ -58,7 +59,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# Done: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want.
 #
@@ -71,7 +72,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 4.
+# Done: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you.
