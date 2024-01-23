@@ -91,8 +91,9 @@ print ((3607*34227))
 #
 # Done: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
-#   this file (m2_todo_and_commit_push.py) now has a 'U' next to it.
-#
+#   this file (m2_todo_and_commit_push.py) now has a 'U' or maybe an 'M' next 
+#   to it.
+#   
 #   This means that you have made changes to this file which have not yet
 #   been COMMITTED to version control and PUSHED to the cloud.
 #
